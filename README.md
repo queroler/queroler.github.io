@@ -1,2 +1,1 @@
-# queroler.github.io
-QueroLer.Click
+# qlc
